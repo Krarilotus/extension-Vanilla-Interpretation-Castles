@@ -1,0 +1,19 @@
+{
+  "name": "Vanilla-Interpretation Snake",
+  "description": "This is the castle set of Vanilla-Interpretation Snake",
+  "author": "Krarilotus",
+  "link": "https://github.com/Krarilotus/extension-Vanilla-Interpretation-Castles",
+  "version": "1.0.1",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": false,
+    "aiv": true,
+    "lord": false,
+    "startTroops": false,
+    "lines": false,
+    "portrait": false
+  }
+}
