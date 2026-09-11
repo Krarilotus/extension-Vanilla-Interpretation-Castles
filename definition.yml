@@ -11,8 +11,3 @@ tags:
 - aiv
 family:
 - name: vanilla-interpretation-castles
-capabilities:
-  files: true
-  code: false
-  configuration: false
-  options: false
