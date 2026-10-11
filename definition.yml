@@ -1,8 +1,13 @@
 name: Vanilla-Interpretation-Castles
 display-name: Vanilla Interpretation Castles
 author: Krarilotus
-version: 1.0.2
-dependencies: 
+version: 1.0.3
+dependencies:
   aiSwapper: ^1.0.1
   framework: ^3.0.0
-  frontend: ^1.0.0
+  frontend: '>=1.0.17 <2.0.0'
+tags:
+- ai
+- aiv
+family:
+- name: vanilla-interpretation-castles
